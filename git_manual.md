@@ -68,7 +68,6 @@ Some Markdown text with <span style="color:blue">some *blue* text</span>.
       ```
   2. Второй элемент
 
-###big-trip
 
 Выше - разделитель для заданий. Итоговый код прогоняется через типограф, поэтому пробелы и тире в тексте правильные. Также готовый HTML код прогоняется через бьютифаер, чтобы не было каши.
 
@@ -78,11 +77,4 @@ Some Markdown text with <span style="color:blue">some *blue* text</span>.
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-Если надо использовать классы — можно добавлять HTML теги 
-```html
- <div class="alert alert--full-width alert--red">Паника</div>
- ```
- конвертируется в
- 
- <div class="alert alert--full-width alert--red">Паника</div>
-  
+
