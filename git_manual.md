@@ -52,3 +52,6 @@
 <a href="https://developer.mozilla.org">MDN</a>
 
 ```
+# Откладывание изменений
+
+    git stash
