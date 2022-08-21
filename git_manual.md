@@ -28,7 +28,7 @@
 
     git checkout branch_name
 
-## Добавление ветки и переключение в одну строчку
+## Добавление ветки и переключение в одной строке
 
     git checkout -b branch_name
 
@@ -43,38 +43,12 @@
     git diff
         git diff hash#1 hash#2
 
+# Запись кода
 
+```html
 
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
+# HTML code
+<p><a href = 'https://google.com'>Googl</a></p>
+<a href="https://developer.mozilla.org">MDN</a>
 
-<font color='yellow'>test blue color font</font>
-
-<span style="color:red">text in red</span>
-
-# Заголовок
-
-- Список
-  1. Вложенный список
-
-      ```html
-      <div>Вложенная вёрстка</div>
-      ```
-
-      ```js
-      // Вложенный JS
-      const sum = (a, b) => {
-        return a + b;
-      }
-      ```
-  2. Второй элемент
-
-
-Выше - разделитель для заданий. Итоговый код прогоняется через типограф, поэтому пробелы и тире в тексте правильные. Также готовый HTML код прогоняется через бьютифаер, чтобы не было каши.
-
-| Таблица       | это           | круто |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
+```
