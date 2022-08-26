@@ -98,7 +98,7 @@
 
     git push
 
-9. В удаленном репозитории на Githum нажимаем кнопку "Contribute", затем кнопку "Open pull request"
+9. В удаленном репозитории на Github нажимаем кнопку "Contribute", затем кнопку "Open pull request"
 
 10. Добавляем комментарий к своему Fork и нажаимаем кнопку "Create pull request"
 
