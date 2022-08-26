@@ -117,8 +117,9 @@
 git config --global alias.hist "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
 ```
 	
-	Создали на github
-
-git remote add origin https://github.com/alexepcauto/Manual_git
-git branch -M master
-git push -f -u origin master
+##Создали на github
+```
+	git remote add origin https://github.com/alexepcauto/Manual_git
+	git branch -M master
+	git push -f -u origin master
+```
