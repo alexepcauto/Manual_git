@@ -1,5 +1,8 @@
 # ignore all logs
 *.log
 *.dbf
+file_ignore.log
+image_git.JPG
+
 
 
